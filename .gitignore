@@ -1,0 +1,4 @@
+.env
+stock_sentiment.db
+.venv/
+__pycache__/ 
