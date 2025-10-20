@@ -1,4 +1,4 @@
-# 📈 Stock Sentiment Dashboard
+# Quantitative Analysis of Financial Discourse for Predictive Volatility Modeling
 
 A modern Streamlit web app for analyzing stock sentiment using real-time data from Twitter, Reddit, and news sources, combined with technical analysis and company fundamentals.
 
