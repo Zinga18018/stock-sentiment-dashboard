@@ -14,7 +14,7 @@ A modern Streamlit web app for analyzing stock sentiment using real-time data fr
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 1. **Clone the repository**
    ```bash
@@ -59,7 +59,7 @@ A modern Streamlit web app for analyzing stock sentiment using real-time data fr
 
 ---
 
-## 🔑 Environment Variables (`.env`)
+## Environment Variables (`.env`)
 Create a `.env` file in your project root with the following:
 
 ```env
@@ -82,7 +82,7 @@ NEWS_API_KEY=your_newsapi_key
 
 ---
 
-## 🛡️ Security Best Practices
+## Security Best Practices
 - `.env` and all secrets are in `.gitignore` by default
 - Never hardcode API keys or passwords in code
 - Use strong, unique passwords for user accounts
@@ -90,7 +90,7 @@ NEWS_API_KEY=your_newsapi_key
 
 ---
 
-## ☁️ Deployment Tips
+## Deployment Tips
 - Set environment variables in your cloud provider’s dashboard (not in code)
 - Use a production-ready database for scaling (e.g., PostgreSQL)
 - Monitor API usage to avoid rate limits
@@ -98,10 +98,10 @@ NEWS_API_KEY=your_newsapi_key
 
 ---
 
-## 📚 License
+##  License
 MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-## 🙋‍♂️ Questions or Contributions?
+## Questions or Contributions?
 Open an issue or pull request on GitHub!
